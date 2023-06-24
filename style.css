@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(imagens/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .container {
+    text-align: center;
+    margin-top: 255px;
+    margin-right: 50px;
+  }
+
+  .option {
+    display: inline-block;
+    margin: 7px;
+    padding: 20px;
+    border: 2px solid #000;
+    cursor: pointer;
+  }
+
+  #sim {
+    width: 150px;
+    height: 50px;
+    background-color: green;
+    color: #fff;
+  }
+  
+
+  #nao {
+    background-color: red;
+    color: #fff;
+    position: relative;
+    width: 150px;
+    height: 50px;
+  }
+  #pergunta{
+      color: #fff;
+  }
