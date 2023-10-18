@@ -23,7 +23,7 @@ body {
     width: 150px;
     height: 50px;
     background-color: green;
-    color: #000;
+    color: #fff;
   }
   
 
@@ -35,5 +35,5 @@ body {
     height: 50px;
   }
   #pergunta{
-      color: #fff;
+      color: #000;
   }
